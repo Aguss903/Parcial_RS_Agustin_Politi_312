@@ -1,0 +1,12 @@
+{
+    "screen_size": [1800, 1000],
+    "font_sizes": {
+      "score": 30,
+      "health": 50,
+      "title": 100,
+      "button": 40,
+      "button_options": 60
+    },
+    "music_volume": 0.5,
+    "max_scores": 5
+  }
